@@ -1,0 +1,232 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>test</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--><meta http-equiv="content-type" content="text/plain; charset=UTF-8"/></head><body><table><tbody><tr><td rowspan="2"><p align="center">
+№ п/п</p>
+</td><td rowspan="2"><p align="center">
+Обозначение зоны</p>
+</td><td rowspan="2"><p align="center" id="z21">
+Горизонтальные границы<br>
+(координаты точек (WGS-84) точка/радиус)</p>
+</td><td colspan="2"><p align="center">
+Вертикальные границы</p>
+</td><td rowspan="2"><p align="center">
+Время работы (время UTC)</p>
+</td></tr><tr><td><p align="center">
+Истинная высота (м)</p>
+</td><td><p align="center">
+Абсолютная высота (FT, FL)</p>
+</td></tr><tr><td><p align="center">
+1.</p>
+</td><td><p align="center">
+UAP1</p>
+</td><td><p>
+N 510642 E 0713936, R=2000 м</p>
+</td><td><p align="center">
+0-670 м</p>
+</td><td><p align="center">
+3300FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+2.</p>
+</td><td><p align="center">
+UAP2</p>
+</td><td><p>
+N520110 E0705007, R=5000 м</p>
+</td><td><p align="center">
+0-2000 м</p>
+</td><td><p align="center">
+8100FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+3.</p>
+</td><td><p align="center">
+UAP3</p>
+</td><td><p>
+N530005 E0702517, R=30000 м</p>
+</td><td><p align="center">
+0-2000 м</p>
+</td><td><p align="center">
+9600FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+4.</p>
+</td><td><p align="center">
+UAP4</p>
+</td><td><p>
+N 434154 E 0773505, R=8000 м</p>
+</td><td><p align="center">
+0-1000 м</p>
+</td><td><p align="center">
+5000FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+5.</p>
+</td><td><p align="center">
+UAP5</p>
+</td><td><p>
+N430912 E0765303, R=5000 м</p>
+</td><td><p align="center">
+0-2000 м</p>
+</td><td><p align="center">
+140FL</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+6.</p>
+</td><td><p align="center">
+UAP6</p>
+</td><td><p>
+N434053 E0510720, R=2000 м</p>
+</td><td><p align="center">
+0-2000 м</p>
+</td><td><p align="center">
+6700FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+7.</p>
+</td><td><p align="center">
+UAP7</p>
+</td><td><p>
+N433700 E0511700, R=5000 м</p>
+</td><td><p align="center">
+0-6000 м</p>
+</td><td><p align="center">
+200FL</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+8.</p>
+</td><td><p align="center">
+UAP8</p>
+</td><td><p>
+N504439 E0783224, R=5000 м</p>
+</td><td><p align="center">
+0-6000 м</p>
+</td><td><p align="center">
+210FL</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+9.</p>
+</td><td><p align="center">
+UAP9</p>
+</td><td><p>
+N501000 E0782324, R=5000 м</p>
+</td><td><p align="center">
+0-6000 м</p>
+</td><td><p align="center">
+210FL</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+10.</p>
+</td><td><p align="center">
+UAP10</p>
+</td><td><p>
+N503046 E0775927, R=5000 м</p>
+</td><td><p align="center">
+0-6000 м</p>
+</td><td><p align="center">
+210FL</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+11.</p>
+</td><td><p align="center">
+UAP11</p>
+</td><td><p>
+N510000 E0684200, R=20000 м</p>
+</td><td><p align="center">
+0-3000 м</p>
+</td><td><p align="center">
+120FL</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+12.</p>
+</td><td><p align="center">
+UAP12</p>
+</td><td><p>
+N503400 E0695300, R=30000 м</p>
+</td><td><p align="center">
+0-3000 м</p>
+</td><td><p align="center">
+120FL</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+13.</p>
+</td><td><p align="center">
+UAP16</p>
+</td><td><p>
+N460720 E0733428-N463834 E0732620-N464645 E0732540-N465337 E0731825-N465600 E0723945-N470043 E0720150-N470410 E0715200-N471233 E0711940-N471300 E0710200-N472200 E0702600-N471000 E0702333-N472345 E0693231-N473310 E0692019-N471915 E0691400-N471627 E0691240-N461019 E0691322-N460000 E0691620-N452800 E0703150-N452700 E0703600-N452500 E0705630-N452530 E0712720-N452325 E0713400-N451920 E0720342-N452012 E0721720-N445755 E0731723-N445526 E0731956-N445723 E0733030-N445926 E0733845-N450255 E0734623-N451041 E0734257-N451425 E0734440-N453013 E0732958-N453921 E0732115-N454025 E0731850-N454715 E0731955-N460720 E0733428</p>
+</td><td><p align="center">
+На всех высотах</p>
+</td><td><p align="center">
+UNL</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+14.</p>
+</td><td><p align="center">
+UAP23</p>
+</td><td><p>
+N522256-E0765402 N522257-E0765528 N522117-E0765432 N522117-E0765405 N522256-E0765402</p>
+</td><td><p align="center">
+0-2000 м</p>
+</td><td><p align="center">
+7000FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+15.</p>
+</td><td><p align="center">
+UAP24</p>
+</td><td><p>
+N471552 E0522633, R=5000 м</p>
+</td><td><p align="center">
+0-2000 м</p>
+</td><td><p align="center">
+6600FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+16.</p>
+</td><td><p align="center">
+UAP26</p>
+</td><td><p>
+N520011 E0705400, R=1500 м</p>
+</td><td><p align="center">
+0-1500 м</p>
+</td><td><p align="center">
+6400FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+17.</p>
+</td><td><p align="center">
+UAP27</p>
+</td><td><p>
+N433037 E0770038, R=1500 м</p>
+</td><td><p align="center">
+0-500 м</p>
+</td><td><p align="center">
+3600FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr><tr><td><p align="center">
+18.</p>
+</td><td><p align="center">
+UAP28</p>
+</td><td><p>
+N510732 E0712646, R=4500 м</p>
+</td><td><p align="center">
+0-1100 м</p>
+</td><td><p align="center">
+4800FT</p>
+</td><td><p align="center">
+Постоянно</p>
+</td></tr></tbody><button style="position: absolute; box-shadow: rgb(39, 104, 115) 0px 10px 14px -7px; background: linear-gradient(rgb(89, 155, 179) 5%, rgb(64, 140, 153) 100%) rgb(89, 155, 179); border-radius: 40px; display: inline-block; cursor: pointer; color: rgb(255, 255, 255); font-family: Arial; font-size: 8px; font-weight: bold; padding: 1px 8px; text-decoration: none; text-shadow: rgb(61, 118, 138) 0px 1px 0px;"></button></table></body></html>
